@@ -25,3 +25,8 @@ You can watch the video for better understanding.
 
 
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+
+
+#### See also:
+- https://github.com/baturalp-kiziltan/lab-automation
