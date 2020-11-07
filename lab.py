@@ -11,7 +11,7 @@ try:
 	for word in f:
 		pyautogui.typewrite(word)
 		time.sleep(2)
-		if word == "Q":
+		if (word == "Q" or word "q"):
 			print("Done.")
 			pyautogui.press("enter")
 			f.close()
